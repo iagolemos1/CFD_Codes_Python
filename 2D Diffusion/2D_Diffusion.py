@@ -1,6 +1,6 @@
 #2D Diffusion Equation Solver
 #hypothesis: No external forces acting on the flow (dp and g equal to 0), uncompressible flow.
-
+#Dirichlet boundary condition 
 #Importing libraries
 import numpy
 from matplotlib import pyplot, cm
